@@ -1,0 +1,11 @@
+﻿  Cpu.cpp
+D:\桌面\Project1\Project1\Cpu.cpp(49,19): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\桌面\Project1\Project1\Cpu.cpp(60,39): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\桌面\Project1\Project1\Cpu.cpp(110,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\Project1\Project1\Cpu.cpp(114,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\Project1\Project1\Cpu.cpp(140,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\Project1\Project1\Cpu.cpp(144,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\Project1\Project1\Cpu.cpp(216,25): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+D:\桌面\Project1\Project1\Cpu.cpp(1092,21): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\桌面\Project1\Project1\Cpu.cpp(297): warning C4715: “CPU::charToint”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\桌面\Project1\x64\Debug\Project1.exe
